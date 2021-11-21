@@ -10,3 +10,4 @@ In summary, the files above are as follows:
 -> Data Wrangling in Python text book: Chapter 2-7
 -> Data Analysis in Python (FreeCodeCamp): Lesson2&3 onwards
 
+[The db files are the databases used in the second course]
