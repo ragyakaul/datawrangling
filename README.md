@@ -11,3 +11,5 @@ In summary, the files above are as follows:
 -> Data Analysis in Python (FreeCodeCamp): Lesson2&3 onwards
 
 [The db files are the databases used in the second course]
+
+All code credit in the chapters & lessons goes to the official examples given in the respective book/course. My work is demonstrated in the exercises. 
